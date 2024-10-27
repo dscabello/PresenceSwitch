@@ -23,8 +23,8 @@ Software:
 
 bash
 Copy code
-git clone [ETS2-Controller-box](https://github.com/dscabello/ETS2-Controller-box).git
-cd ETS2-Controller-box
+git clone [PresenseSwitch](https://github.com/dscabello/PresenseSwitch).git
+cd PresenseSwitch
 
 Set up the [ESP-IDF](https://github.com/espressif/esp-idf) environment: Follow the official ESP-IDF Getting Started guide to set up the development environment.
 
@@ -77,4 +77,4 @@ Open a pull request.
 
 ## License
 
-- Attribution-NonCommercial-ShareAlike 4.0 International [LICENSE](https://github.com/dscabello/ETS2-Controller-box/blob/main/LICENSE])
+- Attribution-NonCommercial-ShareAlike 4.0 International [LICENSE](https://github.com/dscabello/PresenseSwitch/blob/main/LICENSE])
