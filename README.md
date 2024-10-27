@@ -77,4 +77,4 @@ Open a pull request.
 
 ## License
 
-- Attribution-NonCommercial-ShareAlike 4.0 International [LICENSE](https://github.com/dscabello/PresenceSwitch/blob/main/LICENSE])
+- Attribution-NonCommercial-ShareAlike 4.0 International [LICENSE](https://github.com/dscabello/PresenceSwitch/blob/main/LICENSE)
